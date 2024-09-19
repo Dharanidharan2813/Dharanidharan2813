@@ -38,7 +38,7 @@
 <p>
 <a> <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="30" height="40" /></a> 
 <a> <img src="https://img.icons8.com/?size=100&id=gTN9eaZkKLFI&format=png&color=000000" alt="icon" width="40" height="40" /></a>
-<a> <img src="https://github.com/user-attachments/assets/fdc4ce0e-a97e-449e-9dee-8cef3ffd6297" alt="icon" width="40" height="40" /></a>
+<a> <img src="https://github.com/user-attachments/assets/ae83aea7-25f0-47c0-bbfa-98b3d6e2c37d" alt="icon" width="40" height="40" /></a>
 </p>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
