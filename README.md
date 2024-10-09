@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharanidharan S</h1>
 <h2 align="center">A passionate Programmer from India</h2>
-<h2 align="center">My Portfolio:  <a href="https://vaibhavkesarwani.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="45" width="50"></a></h2>
+<h2 align="center">My Portfolio:  <a href=  target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="45" width="50"></a></h2>
 
 ![Beige and White Modern LinkedIn Background Photo (2)](https://github.com/user-attachments/assets/2e35b05d-3011-4e7c-ac8e-fff471ae4e99)
 
