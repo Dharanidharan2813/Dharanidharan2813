@@ -10,7 +10,7 @@
 
 I'm a self-taught, passionate **Backend Developer** from 🇮🇳 India.  
 
-- 💼 Currently working as a **Software Developer**  
+- 💼 Currently working as a **Software Developer (intern)**  
 - ❤️ Love exploring, learning new technologies, and building fun experimental projects  
 - 🚀 Always curious about creating impactful applications and solving real-world problems  
 
